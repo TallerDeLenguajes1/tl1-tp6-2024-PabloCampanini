@@ -47,23 +47,6 @@ if (int.TryParse(cadena, out numero))
 
 // *------ EJERCICIO 2 y 3 ------*
 
-/*
-
-Ingrese al Branch CalculadoraV2 para implementar las mejoras en la
-calculadora.. Solicite al usuario un número y muestre por pantalla:
-● El valor absoluto de un número
-● El cuadrado
-● La raíz cuadrada
-● El seno
-● El Coseno
-
-● La parte entera de un tipo float.
-
-Luego de esto, solicite dos números al usuario y determine:
-● El Máximo entre los dos números
-● El Mínimo entre los dos números
-
-*/
 
 Console.WriteLine("\n\n\t\t*----- Calculadora -----*");
 
