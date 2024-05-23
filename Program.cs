@@ -275,3 +275,23 @@ static void DeterminacionMaximoMinimo()
 // *------ EJERCICIO 4 ------*
 
 
+Console.WriteLine("\n\n\t\t*----- Manejo del tipo String -----*");
+
+Console.WriteLine("\nIngrese una oracion:");
+
+string Oracion1 = Console.ReadLine();
+
+int longitud = Oracion1.Length;
+
+Console.WriteLine($"\n\n\t*----- Longitud de la frase ingresada: {longitud} -----*");
+
+Console.WriteLine("\nIngrese una oracion que se concatenara con la primera:");
+
+string Oracion2 = Console.ReadLine();
+
+string concatenada = String.Concat(Oracion1," ", Oracion2);
+
+Console.WriteLine("\n\n\t*----- Las oraciones concatenadas -----*");
+
+Console.WriteLine($"\n{concatenada}");
+
