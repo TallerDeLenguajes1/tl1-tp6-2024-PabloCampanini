@@ -46,7 +46,7 @@ if (int.TryParse(cadena, out numero))
 
 
 // *------ EJERCICIO 2 y 3 ------*
-
+/*
 
 Console.WriteLine("\n\n\t\t*----- Calculadora -----*");
 
@@ -266,3 +266,12 @@ static void DeterminacionMaximoMinimo()
         Console.WriteLine("*----- Debe ingresar un numero como dato -----*");
     }
 }
+
+*/
+
+
+
+
+// *------ EJERCICIO 4 ------*
+
+
